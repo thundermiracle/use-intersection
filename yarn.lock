@@ -1792,10 +1792,10 @@
   resolved "https://registry.yarnpkg.com/@types/jest-diff/-/jest-diff-20.0.1.tgz#35cc15b9c4f30a18ef21852e255fdb02f6d59b89"
   integrity sha512-yALhelO3i0hqZwhjtcr6dYyaLoCHbAMshwtj6cGxTvHZAKXHsYGdff6E8EPw3xLKY0ELUTQ69Q1rQiJENnccMA==
 
-"@types/jest-environment-puppeteer@4.3.1":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@types/jest-environment-puppeteer/-/jest-environment-puppeteer-4.3.1.tgz#597d16fa0594a5daf1b3c08262bfbb011e146c2d"
-  integrity sha512-e7G12WRw525gsiz7NW3tKY+YWyNR08r3QvyC31rzMrnn7CkyGbsiskBjnR3koY/6jwIASgxO5knm4xJQ1KtbQQ==
+"@types/jest-environment-puppeteer@4.3.2":
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/@types/jest-environment-puppeteer/-/jest-environment-puppeteer-4.3.2.tgz#630ad931d433b8197d29e0c6cb42a9faa91f591e"
+  integrity sha512-QVR49cGaQMOrWRN7CXlvtPMuVAxa3Z+W3APxhWoSQLG/lvz1y03ECPvS7Y9eK+hgfndK+39400rO6IifDJV9YA==
   dependencies:
     "@jest/environment" "^24"
     "@jest/fake-timers" "^24"
